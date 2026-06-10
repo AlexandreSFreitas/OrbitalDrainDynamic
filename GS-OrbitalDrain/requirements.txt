@@ -1,8 +1,0 @@
-# Flood Guard Urban — Sem dependências externas
-# Utiliza apenas a biblioteca padrão do Python 3.11+
-#
-# Módulos usados:
-#   heapq       — fila de prioridade (max-heap)
-#   collections — deque para fila FIFO
-#   datetime    — timestamps dos eventos
-#   random      — simulação de leituras de sensores
